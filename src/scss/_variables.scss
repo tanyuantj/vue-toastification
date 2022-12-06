@@ -20,6 +20,6 @@ $vt-text-color-error: #fff !default;
 $vt-color-progress-default: linear-gradient(to right, #4cd964, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55) !default;
 
 $vt-mobile: "only screen and (max-width : 600px)" !default;
-$vt-not-mobile: "only screen and (min-width : 600px)" !default;
+$vt-not-mobile: "only screen and (min-width : 0px)" !default;
 $vt-font-family: "Lato", Helvetica, "Roboto", Arial, sans-serif !default;
 $vt-z-index: 9999 !default;
